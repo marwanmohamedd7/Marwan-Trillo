@@ -255,7 +255,7 @@ body {
     margin-right: 1rem;
     border-radius: 50%;
     box-sizing: content-box;
-    border: 0.3rem solid var(--grey-color-light-2); }
+    border: 0.25rem solid var(--grey-color-light-3); }
 
 .side-nav {
   list-style: none;
